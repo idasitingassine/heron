@@ -1,0 +1,14 @@
+Package: heron
+Title: heron calcule l'aire d'un triangle
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ida", "IdaASSINE", , "idasitingassine@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: heron calcule l'aire d'un triangle a l'aide de la formule d'heron.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
